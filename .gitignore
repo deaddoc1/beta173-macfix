@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.jar
+*.dylib
+*.jnilib
+*.log
+*.ips
+options.txt*
+saves/
